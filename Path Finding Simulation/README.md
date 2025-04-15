@@ -17,3 +17,6 @@ A* Path Finding Simulation using Pygame in Python.
 * Green: Optimal Path
 * Yellow: Node being explored
 * Green: Node being added to open list
+
+# Reference
+https://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
