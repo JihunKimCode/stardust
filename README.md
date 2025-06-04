@@ -1,5 +1,5 @@
 # Path Finding Simulation
-We implemented the pathfinding algorithms in Python using Pygame to visually demonstrate how it finds the optimal path. The algorithm then calculates and displays the most optimal path from start to finish.
+Implemented the pathfinding algorithms in Python using Pygame to visually demonstrate how it finds the optimal path. The algorithm then calculates and displays the most optimal path from start to finish.
 
 ## Controls
 * The first cell you click is marked in blue and indicates the starting point.
